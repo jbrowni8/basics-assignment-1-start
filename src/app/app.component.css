@@ -1,0 +1,11 @@
+h3 {
+    color: blueviolet;
+}
+
+app-successalert {
+    color: green;
+}
+
+app-warningalert {
+    color: red;
+}
