@@ -4,8 +4,12 @@ h3 {
 
 app-successalert {
     color: green;
+    background-color: lightgreen;
+    border: 1px solid green;
 }
 
 app-warningalert {
     color: red;
+    background-color: mistyrose;
+    border: 1px solid red;
 }
